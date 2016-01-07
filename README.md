@@ -1,3 +1,5 @@
+[ ![Codeship Status for lousando/font64-loader](https://codeship.com/projects/b553acb0-9722-0133-1233-02c848466e78/status?branch=master)](https://codeship.com/projects/125689)
+
 # font64-loader
 
 Inlines fonts in base64 encoding to prevent another network call.
