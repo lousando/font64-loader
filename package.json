@@ -1,0 +1,28 @@
+{
+  "name": "font64-loader",
+  "version": "1.0.0",
+  "description": "Inline fonts in base64 format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Sandoval",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lousando/font64-loader.git"
+  },
+  "keywords": [
+    "font",
+    "base64",
+    "webpack",
+    "loader",
+    "64"
+  ],
+  "bugs": {
+    "url": "https://github.com/lousando/font64-loader/issues"
+  },
+  "homepage": "https://github.com/lousando/font64-loader#readme"
+}
