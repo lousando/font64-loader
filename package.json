@@ -3,6 +3,7 @@
   "version": "2.1.1",
   "description": "Inline fonts in base64 format",
   "main": "index.js",
+  "engineStrict": true,
   "engines": {
     "node": ">= 4.0.0"
   },
