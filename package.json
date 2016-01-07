@@ -1,6 +1,6 @@
 {
   "name": "font64-loader",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Inline fonts in base64 format",
   "main": "index.js",
   "scripts": {
