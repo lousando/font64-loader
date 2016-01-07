@@ -4,12 +4,14 @@
   "description": "Inline fonts in base64 format",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "author": "Louis Sandoval",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lousando/font64-loader.git"

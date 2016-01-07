@@ -1,0 +1,8 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "font64_spec.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
