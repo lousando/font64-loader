@@ -31,9 +31,9 @@ Quick install:
 
 For webpack to use the `font64-loader` in this manner:
 
-    * install: [resolve-url-loader](https://github.com/bholloway/resolve-url-loader)
-    * enable: `source-map` with `dev-tool`
-    * pass: `?sourceMap` to the `sass-loader`
+- install [resolve-url-loader](https://github.com/bholloway/resolve-url-loader)
+- enable: `source-map` with `dev-tool`
+- pass: `?sourceMap` to the `sass-loader`
 
 ## Usage with *sass-loader*
 
