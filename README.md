@@ -1,4 +1,6 @@
-[ ![Codeship Status for lousando/font64-loader](https://codeship.com/projects/b553acb0-9722-0133-1233-02c848466e78/status?branch=master)](https://codeship.com/projects/125689)
+[![Build Status](https://travis-ci.org/lousando/font64-loader.svg?branch=master)](https://travis-ci.org/lousando/font64-loader)
+[![npm](https://img.shields.io/npm/v/font64-loader.svg?maxAge=2592000)]()
+[![npm](https://img.shields.io/npm/dm/font64-loader.svg?maxAge=2592000)]()
 
 # font64-loader
 
