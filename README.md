@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/lousando/font64-loader.svg?branch=master)](https://travis-ci.org/lousando/font64-loader)
-[![npm](https://img.shields.io/npm/v/font64-loader.svg?maxAge=2592000)]()
-[![npm](https://img.shields.io/npm/dm/font64-loader.svg?maxAge=2592000)]()
+[![npm](https://img.shields.io/npm/v/font64-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/font64-loader)
+[![npm](https://img.shields.io/npm/dm/font64-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/font64-loader)
 
 # font64-loader
 
