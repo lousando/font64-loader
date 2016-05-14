@@ -1,0 +1,5 @@
+# don't include tests in package
+spec/
+
+# no need for travis tests either
+.travis.yml
